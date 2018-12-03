@@ -1,4 +1,4 @@
-///Sasha Gupta
+/*Sasha Gupta*/
 public class GitTest{
 	public String what;
 
