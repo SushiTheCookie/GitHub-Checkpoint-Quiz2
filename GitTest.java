@@ -3,6 +3,8 @@ public class GitTest{
 
 	public GitTest(){
 		what = "This is my GitHub Test";
-
+	}
+	public String toString(){
+		return what;
 	}
 }
